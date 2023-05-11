@@ -1,0 +1,6 @@
+{
+    "watch": ["."],
+    "ext": "tsx",
+    "ignore": ["node_modules"],
+    "script": "npm start"
+  }
